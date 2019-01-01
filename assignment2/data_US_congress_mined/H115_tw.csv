@@ -1,0 +1,446 @@
+,WikiPageName,Party,State,TwitterHandle
+0,John_Conyers,Democratic,Michigan,RepJohnDuncanJr
+1,Don_Young,Republican,Alaska,repdonyoung
+2,Jim_Sensenbrenner,Republican,Wisconsin,JimPressOffice
+3,Hal_Rogers,Republican,Kentucky,RepOHalleran
+4,Chris_Smith_(New_Jersey_politician),Republican,New Jersey,RepChrisSmith
+5,Steny_Hoyer,Democratic,Maryland,WhipHoyer
+6,Marcy_Kaptur,Democratic,Ohio,RepMarcyKaptur
+7,Sander_Levin,Democratic,Michigan,repsandylevin
+8,Joe_Barton,Republican,Texas,RepJoeBarton
+9,Pete_Visclosky,Democratic,Indiana,RepVisclosky
+10,Peter_DeFazio,Democratic,Oregon,RepPeterDeFazio
+11,John_Lewis_(civil_rights_leader),Democratic,Georgia,RepJohnConyers
+12,Louise_Slaughter,Democratic,New York,louiseslaughter
+13,Lamar_Smith,Republican,Texas,LamarSmithTX21
+14,Fred_Upton,Republican,Michigan,RepFredUpton
+15,Nancy_Pelosi,Democratic,California,NancyPelosi
+16,Jimmy_Duncan_(politician),Republican,Tennessee,N/A
+17,Frank_Pallone,Democratic,New Jersey,RepFrankLucas
+18,Eliot_Engel,Democratic,New York,RepEliotEngel
+19,Nita_Lowey,Democratic,New York,NitaLowey
+20,Richard_Neal,Democratic,Massachusetts,RepRichardNeal
+21,Dana_Rohrabacher,Republican,California,DanaRohrabacher
+22,Ileana_Ros-Lehtinen,Republican,Florida,RosLehtinen
+23,José_E._Serrano,Democratic,New York,RepJoseSerrano
+24,David_Price_(American_politician),Democratic,North Carolina,RepDavidEPrice
+25,Rosa_DeLauro,Democratic,Connecticut,rosadelauro
+26,Collin_Peterson,Democratic,Minnesota,N/A
+27,Maxine_Waters,Democratic,California,RepMaxineWaters
+28,Sam_Johnson,Republican,Texas,SamsPressShop
+29,Jerrold_Nadler,Democratic,New York,RepJerryNadler
+30,Jim_Cooper,Democratic,Tennessee,repjimcooper
+31,Xavier_Becerra,Democratic,California,N/A
+32,Sanford_Bishop,Democratic,Georgia,RepSanfordSC
+33,Ken_Calvert,Republican,California,RepKenMarchant
+34,Jim_Clyburn,Democratic,South Carolina,JimLangevin
+35,Anna_Eshoo,Democratic,California,RepAnnaEshoo
+36,Bob_Goodlatte,Republican,Virginia,RepGoodlatte
+37,Gene_Green,Democratic,Texas,RepAlGreen
+38,Luis_Gutiérrez,Democratic,Illinois,RepGutierrez
+39,Alcee_Hastings,Democratic,Florida,RepHastingsFL
+40,Eddie_Bernice_Johnson,Democratic,Texas,N/A
+41,Peter_T._King,Republican,New York,PeterRoskam
+42,Carolyn_Maloney,Democratic,New York,RepMaloney
+43,Lucille_Roybal-Allard,Democratic,California,N/A
+44,Ed_Royce,Republican,California,RepEdRoyce
+45,Bobby_Rush,Democratic,Illinois,RepBobbyRush
+46,Bobby_Scott_(politician),Democratic,Virginia,BobbyScott
+47,Nydia_Velázquez,Democratic,New York,NydiaVelazquez
+48,Bennie_Thompson,Democratic,Mississippi,BennieGThompson
+49,Frank_Lucas_(Oklahoma_politician),Republican,Oklahoma,FrankDLucas
+50,Lloyd_Doggett,Democratic,Texas,RepLloydDoggett
+51,Michael_F._Doyle,Democratic,Pennsylvania,michaelcburgess
+52,Rodney_Frelinghuysen,Republican,New Jersey,N/A
+53,Sheila_Jackson_Lee,Democratic,Texas,JacksonLeeTX18
+54,Walter_B._Jones_Jr.,Republican,North Carolina,RepWalterJones
+55,Frank_LoBiondo,Republican,New Jersey,RepLoBiondo
+56,Zoe_Lofgren,Democratic,California,RepZoeLofgren
+57,Mac_Thornberry,Republican,Texas,MacTXPress
+58,Elijah_Cummings,Democratic,Maryland,RepCummings
+59,Earl_Blumenauer,Democratic,Oregon,repblumenauer
+60,Robert_Aderholt,Republican,Alabama,Robert_Aderholt
+61,Kevin_Brady,Republican,Texas,RepKevinBrady
+62,Danny_K._Davis,Democratic,Illinois,RepDannyDavis
+63,Diana_DeGette,Democratic,Colorado,RepDianaDeGette
+64,Kay_Granger,Republican,Texas,RepKayGranger
+65,Ron_Kind,Democratic,Wisconsin,RepRonKind
+66,Jim_McGovern_(American_politician),Democratic,Massachusetts,RepMcGovern
+67,Bill_Pascrell,Democratic,New Jersey,BillPascrell
+68,Pete_Sessions,Republican,Texas,aguilarpete
+69,Brad_Sherman,Democratic,California,RepBrady
+70,John_Shimkus,Republican,Illinois,RepJohnLarson
+71,Adam_Smith_(politician),Democratic,Washington,RepAdams
+72,Gregory_Meeks,Democratic,New York,RepGregoryMeeks
+73,Barbara_Lee,Democratic,California,RepBarbaraLee
+74,Bob_Brady,Democratic,Pennsylvania,N/A
+75,Steve_Chabot,Republican,Ohio,RepSteveChabot
+76,Mike_Capuano,Democratic,Massachusetts,USRepMikeDoyle
+77,Joe_Crowley,Democratic,New York,repjoecrowley
+78,John_B._Larson,Democratic,Connecticut,RepEBJ
+79,Grace_Napolitano,Democratic,California,gracenapolitano
+80,Paul_Ryan,Republican,Wisconsin,N/A
+81,Jan_Schakowsky,Democratic,Illinois,janschakowsky
+82,Mike_Simpson,Republican,Idaho,CongMikeSimpson
+83,Mike_Thompson_(California_politician),Democratic,California,RepThompson
+84,Greg_Walden,Republican,Oregon,repgregwalden
+85,Lacy_Clay,Democratic,Missouri,LacyClayMO1
+86,John_Culberson,Republican,Texas,repjohnlewis
+87,Susan_Davis_(politician),Democratic,California,RepSusanDavis
+88,Sam_Graves,Republican,Missouri,RepSamGraves
+89,Darrell_Issa,Republican,California,DarrellIssa
+90,James_Langevin,Democratic,Rhode Island,Clyburn
+91,Rick_Larsen,Democratic,Washington,RepRickLarsen
+92,Betty_McCollum,Democratic,Minnesota,BettyMcCollum04
+93,Adam_Schiff,Democratic,California,RepAdamSmith
+94,Pat_Tiberi,Republican,Ohio,PatTiberi
+95,Bill_Shuster,Republican,Pennsylvania,RepBillShuster
+96,Stephen_F._Lynch,Democratic,Massachusetts,RepStephenLynch
+97,Joe_Wilson_(American_politician),Republican,South Carolina,RepJoeWilson
+98,Rob_Bishop,Republican,Utah,SanfordBishop
+99,Marsha_Blackburn,Republican,Tennessee,RepMarshall
+100,Michael_C._Burgess,Republican,Texas,N/A
+101,John_Carter_(Texas_politician),Republican,Texas,JudgeCarter
+102,Tom_Cole,Republican,Oklahoma,RepTomSuozzi
+103,Mario_Díaz-Balart,Republican,Florida,MarioDB
+104,Trent_Franks,Republican,Arizona,N/A
+105,Raúl_Grijalva,Democratic,Arizona,RepRaulGrijalva
+106,Jeb_Hensarling,Republican,Texas,RepHensarling
+107,Steve_King,Republican,Iowa,SteveKingIA
+108,Tim_Murphy_(American_politician),Republican,Pennsylvania,Tim_Walz
+109,Devin_Nunes,Republican,California,RepDevinNunes
+110,Mike_Rogers_(Alabama_politician),Republican,Alabama,RepMikeRogersAL
+111,Dutch_Ruppersberger,Democratic,Maryland,Call_Me_Dutch
+112,Tim_Ryan_(politician),Democratic,Ohio,RepTimRyan
+113,Linda_Sánchez,Democratic,California,RepLindaSanchez
+114,David_Scott_(Georgia_politician),Democratic,Georgia,repdavidscott
+115,Mike_Turner,Republican,Ohio,RepMikeTurner
+116,G._K._Butterfield,Democratic,North Carolina,GKButterfield
+117,Emanuel_Cleaver,Democratic,Missouri,repcleaver
+118,Mike_Conaway,Republican,Texas,ConawayTX11
+119,Jim_Costa,Democratic,California,RepJimCosta
+120,Henry_Cuellar,Democratic,Texas,RepCuellar
+121,Charlie_Dent,Republican,Pennsylvania,N/A
+122,Jeff_Fortenberry,Republican,Nebraska,RepJeffries
+123,Virginia_Foxx,Republican,North Carolina,virginiafoxx
+124,Louie_Gohmert,Republican,Texas,replouiegohmert
+125,Al_Green_(politician),Democratic,Texas,RepRoybalAllard
+126,Brian_Higgins,Democratic,New York,RepBrianHiggins
+127,Dan_Lipinski,Democratic,Illinois,RepLipinski
+128,Kenny_Marchant,Republican,Texas,N/A
+129,Michael_McCaul,Republican,Texas,RepMcCaul
+130,Patrick_McHenry,Republican,North Carolina,PatrickMcHenry
+131,Cathy_McMorris_Rodgers,Republican,Washington,cathymcmorris
+132,Gwen_Moore,Democratic,Wisconsin,RepGwenMoore
+133,Ted_Poe,Republican,Texas,JudgeTedPoe
+134,Tom_Price_(American_politician),Republican,Georgia,TomColeOK04
+135,Dave_Reichert,Republican,Washington,RepDaveJoyce
+136,Debbie_Wasserman_Schultz,Democratic,Florida,RepDWStweets
+137,Doris_Matsui,Democratic,California,DorisMatsui
+138,Albio_Sires,Democratic,New Jersey,RepSires
+139,Steve_Pearce_(politician),Republican,New Mexico,N/A
+140,Gus_Bilirakis,Republican,Florida,RepGusBilirakis
+141,Vern_Buchanan,Republican,Florida,VernBuchanan
+142,Kathy_Castor,Democratic,Florida,USRepKCastor
+143,Yvette_Clarke,Democratic,New York,RepYvetteClarke
+144,Steve_Cohen,Democratic,Tennessee,RepCohen
+145,Joe_Courtney_(politician),Democratic,Connecticut,RepJoeCourtney
+146,Keith_Ellison,Democratic,Minnesota,RothfusForPA
+147,Hank_Johnson,Democratic,Georgia,RepHankJohnson
+148,Jim_Jordan_(American_politician),Republican,Ohio,Jim_Jordan
+149,Doug_Lamborn,Republican,Colorado,RepDLamborn
+150,Dave_Loebsack,Democratic,Iowa,daveloebsack
+151,Kevin_McCarthy_(California_politician),Republican,California,GOPLeader
+152,Jerry_McNerney,Democratic,California,RepMcNerney
+153,Ed_Perlmutter,Democratic,Colorado,RepPerlmutter
+154,Pete_Roskam,Republican,Illinois,PeteSessions
+155,John_Sarbanes,Democratic,Maryland,RepSarbanes
+156,Adrian_Smith_(politician),Republican,Nebraska,RepAdrianSmith
+157,Tim_Walz,Democratic,Minnesota,RepTimWalz
+158,Peter_Welch,Democratic,Vermont,PeterWelch
+159,John_Yarmuth,Democratic,Kentucky,RepJohnYarmuth
+160,Niki_Tsongas,Democratic,Massachusetts,nikiinthehouse
+161,Bob_Latta,Republican,Ohio,boblatta
+162,Rob_Wittman,Republican,Virginia,RepRobBishop
+163,André_Carson,Democratic,Indiana,RepAndreCarson
+164,Jackie_Speier,Democratic,California,RepSpeier
+165,Steve_Scalise,Republican,Louisiana,SteveScalise
+166,Marcia_Fudge,Democratic,Ohio,RepMarciaFudge
+167,Rick_Nolan,Democratic,Minnesota,USRepRickNolan
+168,Mark_Sanford,Republican,South Carolina,MarkPocan
+169,Jason_Chaffetz,Republican,Utah,N/A
+170,Mike_Coffman,Republican,Colorado,RepMikeCoffman
+171,Gerry_Connolly,Democratic,Virginia,GerryConnolly
+172,Brett_Guthrie,Republican,Kentucky,RepGuthrie
+173,Gregg_Harper,Republican,Mississippi,GreggHarper
+174,Jim_Himes,Democratic,Connecticut,jahimes
+175,Duncan_D._Hunter,Republican,California,Rep_Hunter
+176,Lynn_Jenkins,Republican,Kansas,RobinLynneKelly
+177,Leonard_Lance,Republican,New Jersey,RepLanceNJ7
+178,Blaine_Luetkemeyer,Republican,Missouri,RepBlaine
+179,Ben_Ray_Luján,Democratic,New Mexico,RepDelBene
+180,Tom_McClintock,Republican,California,RepMcClintock
+181,Pete_Olson,Republican,Texas,RepPeteOlson
+182,Erik_Paulsen,Republican,Minnesota,RepErikPaulsen
+183,Chellie_Pingree,Democratic,Maine,chelliepingree
+184,Jared_Polis,Democratic,Colorado,RepJaredPolis
+185,Bill_Posey,Republican,Florida,congbillposey
+186,Phil_Roe_(politician),Republican,Tennessee,DrPhilRoe
+187,Tom_Rooney_(Florida_politician),Republican,Florida,TomRooney
+188,Kurt_Schrader,Democratic,Oregon,RepSchrader
+189,Glenn_Thompson_(politician),Republican,Pennsylvania,CongressmanGT
+190,Paul_Tonko,Democratic,New York,RepPaulTonko
+191,Mike_Quigley_(politician),Democratic,Illinois,RepMikeQuigley
+192,Judy_Chu,Democratic,California,RepJudyChu
+193,John_Garamendi,Democratic,California,RepGaramendi
+194,Ted_Deutch,Democratic,Florida,RepTedDeutch
+195,Tom_Graves,Republican,Georgia,RepTomGraves
+196,Tom_Reed_(politician),Republican,New York,RepTomReed
+197,Tim_Walberg,Republican,Michigan,RepWalberg
+198,Bill_Foster_(politician),Democratic,Illinois,RepBillFoster
+199,Justin_Amash,Republican,Michigan,justinamash
+200,Lou_Barletta,Republican,Pennsylvania,RepLoudermilk
+201,Karen_Bass,Democratic,California,RepKarenBass
+202,Diane_Black,Republican,Tennessee,MarshaBlackburn
+203,Mo_Brooks,Republican,Alabama,RepMoolenaar
+204,Larry_Bucshon,Republican,Indiana,RepLarryBucshon
+205,David_Cicilline,Democratic,Rhode Island,RepCicilline
+206,Rick_Crawford_(politician),Republican,Arkansas,RepRickCrawford
+207,Jeff_Denham,Republican,California,RepJeffDenham
+208,Scott_DesJarlais,Republican,Tennessee,DesJarlaisTN04
+209,Sean_Duffy,Republican,Wisconsin,RepSeanDuffy
+210,Jeff_Duncan_(politician),Republican,South Carolina,RepJeffDuncan
+211,Blake_Farenthold,Republican,Texas,farenthold
+212,Chuck_Fleischmann,Republican,Tennessee,RepChuck
+213,Bill_Flores,Republican,Texas,RepBillFlores
+214,Bob_Gibbs,Republican,Ohio,RepBobGibbs
+215,Paul_Gosar,Republican,Arizona,RepGosar
+216,Trey_Gowdy,Republican,South Carolina,TGowdySC
+217,Morgan_Griffith,Republican,Virginia,RepMGriffith
+218,Andy_Harris_(politician),Republican,Maryland,RepAndyHarrisMD
+219,Vicky_Hartzler,Republican,Missouri,RepHartzler
+220,Jaime_Herrera_Beutler,Republican,Washington,HerreraBeutler
+221,Bill_Huizenga,Republican,Michigan,RepHuizenga
+222,Randy_Hultgren,Republican,Illinois,RepHultgren
+223,Bill_Johnson_(Ohio_politician),Republican,Ohio,RepBillJohnson
+224,Bill_Keating_(politician),Democratic,Massachusetts,USRepKeating
+225,Mike_Kelly_(Pennsylvania_politician),Republican,Pennsylvania,MikeKellyPA
+226,Adam_Kinzinger,Republican,Illinois,RepKinzinger
+227,Raúl_Labrador,Republican,Idaho,Raul_Labrador
+228,Billy_Long,Republican,Missouri,USRepLong
+229,Tom_Marino,Republican,Pennsylvania,RepTomMarino
+230,David_McKinley,Republican,West Virginia,RepMcKinley
+231,Pat_Meehan,Republican,Pennsylvania,N/A
+232,Mick_Mulvaney,Republican,South Carolina,N/A
+233,Kristi_Noem,Republican,South Dakota,RepKristiNoem
+234,Steven_Palazzo,Republican,Mississippi,CongPalazzo
+235,Mike_Pompeo,Republican,Kansas,N/A
+236,Jim_Renacci,Republican,Ohio,RepJimRenacci
+237,Cedric_Richmond,Democratic,Louisiana,RepRichmond
+238,Martha_Roby,Republican,Alabama,RepMarthaRoby
+239,Todd_Rokita,Republican,Indiana,ToddRokita
+240,Dennis_Ross_(politician),Republican,Florida,RepDennisRoss
+241,David_Schweikert,Republican,Arizona,RepDavid
+242,Austin_Scott_(politician),Republican,Georgia,AustinScottGA08
+243,Terri_Sewell,Democratic,Alabama,RepTerriSewell
+244,Steve_Stivers,Republican,Ohio,RepSteveStivers
+245,Scott_Tipton,Republican,Colorado,RepTipton
+246,Daniel_Webster_(Florida_politician),Republican,Florida,RepWebster
+247,Frederica_Wilson,Democratic,Florida,RepWilson
+248,Steve_Womack,Republican,Arkansas,rep_stevewomack
+249,Rob_Woodall,Republican,Georgia,RepRobWoodall
+250,Kevin_Yoder,Republican,Kansas,RepKevinYoder
+251,Mark_Amodei,Republican,Nevada,MarkAmodeiNV2
+252,Suzanne_Bonamici,Democratic,Oregon,RepBonamici
+253,Suzan_DelBene,Democratic,Washington,N/A
+254,Thomas_Massie,Republican,Kentucky,RepThomasMassie
+255,Donald_Payne_Jr.,Democratic,New Jersey,RepDonaldPayne
+256,Dina_Titus,Democratic,Nevada,repdinatitus
+257,Carol_Shea-Porter,Democratic,New Hampshire,RepSheaPorter
+258,Colleen_Hanabusa,Democratic,Hawaii,RepHanabusa
+259,Andy_Barr_(American_politician),Republican,Kentucky,RepAndyBarr
+260,Joyce_Beatty,Democratic,Ohio,RepBeatty
+261,Ami_Bera,Democratic,California,RepBera
+262,Jim_Bridenstine,Republican,Oklahoma,RepJBridenstine
+263,Susan_Brooks,Republican,Indiana,SusanWBrooks
+264,Julia_Brownley,Democratic,California,JuliaBrownley26
+265,Cheri_Bustos,Democratic,Illinois,RepCheri
+266,Tony_Cárdenas,Democratic,California,RepCardenas
+267,Matt_Cartwright,Democratic,Pennsylvania,RepCartwright
+268,Joaquín_Castro,Democratic,Texas,JoaquinCastrotx
+269,Chris_Collins_(American_politician),Republican,New York,RepChrisCollins
+270,Doug_Collins_(politician),Republican,Georgia,RepDougCollins
+271,Paul_Cook_(politician),Republican,California,RepPaulCook
+272,Kevin_Cramer,Republican,North Dakota,RepKevinCramer
+273,Rodney_Davis_(politician),Republican,Illinois,RodneyDavis
+274,John_Delaney_(Maryland_politician),Democratic,Maryland,RepJohnDelaney
+275,Ron_DeSantis,Republican,Florida,GovRonDeSantis
+276,Elizabeth_Esty,Democratic,Connecticut,RepEsty
+277,Lois_Frankel,Democratic,Florida,RepLoisFrankel
+278,Tulsi_Gabbard,Democratic,Hawaii,TulsiPress
+279,Dennis_Heck,Democratic,Washington,RepDennyHeck
+280,George_Holding,Republican,North Carolina,RepHolding
+281,Richard_Hudson_(American_politician),Republican,North Carolina,RepRichHudson
+282,Jared_Huffman,Democratic,California,RepHuffman
+283,Hakeem_Jeffries,Democratic,New York,N/A
+284,David_Joyce_(politician),Republican,Ohio,davidcicilline
+285,Joe_Kennedy_III,Democratic,Massachusetts,RepJoeKennedy
+286,Dan_Kildee,Democratic,Michigan,RepDanKildee
+287,Derek_Kilmer,Democratic,Washington,RepDerekKilmer
+288,Ann_McLane_Kuster,Democratic,New Hampshire,RepAnnieKuster
+289,Doug_LaMalfa,Republican,California,RepLaMalfa
+290,Alan_Lowenthal,Democratic,California,RepLowenthal
+291,Michelle_Lujan_Grisham,Democratic,New Mexico,RepLujanGrisham
+292,Sean_Patrick_Maloney,Democratic,New York,RepSeanMaloney
+293,Mark_Meadows_(North_Carolina_politician),Republican,North Carolina,RepMarkMeadows
+294,Grace_Meng,Democratic,New York,RepGraceMeng
+295,Luke_Messer,Republican,Indiana,RepLukeMesser
+296,Markwayne_Mullin,Republican,Oklahoma,RepMullin
+297,Beto_O'Rourke,Democratic,Texas,RepBetoORourke
+298,Scott_Perry_(politician),Republican,Pennsylvania,RepScottPerry
+299,Scott_Peters_(politician),Democratic,California,RepScottPeters
+300,Robert_Pittenger,Republican,North Carolina,RepPittenger
+301,Mark_Pocan,Democratic,Wisconsin,repmarkpocan
+302,Tom_Rice,Republican,South Carolina,RepTomRice
+303,Keith_Rothfus,Republican,Pennsylvania,KeithRothfus
+304,Raul_Ruiz_(politician),Democratic,California,CongressmanRuiz
+305,Kyrsten_Sinema,Democratic,Arizona,RepSinema
+306,Chris_Stewart_(politician),Republican,Utah,RepChrisStewart
+307,Eric_Swalwell,Democratic,California,RepSwalwell
+308,Mark_Takano,Democratic,California,RepMarkTakano
+309,David_Valadao,Republican,California,RepDavidValadao
+310,Juan_Vargas,Democratic,California,RepJuanVargas
+311,Marc_Veasey,Democratic,Texas,RepVeasey
+312,Filemon_Vela_Jr.,Democratic,Texas,RepFilemonVela
+313,Ann_Wagner,Republican,Missouri,RepAnnWagner
+314,Jackie_Walorski,Republican,Indiana,RepWalorski
+315,Randy_Weber,Republican,Texas,TXRandy14
+316,Brad_Wenstrup,Republican,Ohio,RepBradWenstrup
+317,Roger_Williams_(American_politician),Republican,Texas,RepRWilliams
+318,Ted_Yoho,Republican,Florida,RepTedYoho
+319,Robin_Kelly,Democratic,Illinois,RepRobinKelly
+320,Jason_Smith_(politician),Republican,Missouri,RepJasonSmith
+321,Katherine_Clark,Democratic,Massachusetts,RepKClark
+322,Bradley_Byrne,Republican,Alabama,RepByrne
+323,Alma_Adams,Democratic,North Carolina,N/A
+324,Dave_Brat,Republican,Virginia,RepDaveBrat
+325,Donald_Norcross,Democratic,New Jersey,DonaldNorcross
+326,Ralph_Abraham_(politician),Republican,Louisiana,RepAbraham
+327,Pete_Aguilar,Democratic,California,RepPeteAguilar
+328,Rick_W._Allen,Republican,Georgia,RepRickAllen
+329,Brian_Babin,Republican,Texas,RepBrianBabin
+330,Don_Beyer,Democratic,Virginia,RepDonBeyer
+331,Mike_Bishop_(politician),Republican,Michigan,N/A
+332,Rod_Blum,Republican,Iowa,RepRodBlum
+333,Mike_Bost,Republican,Illinois,RepBost
+334,Brendan_Boyle,Democratic,Pennsylvania,CongBoyle
+335,Ken_Buck,Republican,Colorado,RepKenBuck
+336,Buddy_Carter,Republican,Georgia,RepBuddyCarter
+337,Barbara_Comstock,Republican,Virginia,RepComstock
+338,Ryan_Costello,Republican,Pennsylvania,SpeakerRyan
+339,Carlos_Curbelo,Republican,Florida,RepCurbelo
+340,Mark_DeSaulnier,Democratic,California,RepDeSaulnier
+341,Debbie_Dingell,Democratic,Michigan,RepDebDingell
+342,Tom_Emmer,Republican,Minnesota,RepTomEmmer
+343,Ruben_Gallego,Democratic,Arizona,RepRubenGallego
+344,Garret_Graves,Republican,Louisiana,RepGarretGraves
+345,Glenn_Grothman,Republican,Wisconsin,RepGrothman
+346,Jody_Hice,Republican,Georgia,CongressmanHice
+347,French_Hill_(politician),Republican,Arkansas,RepFrenchHill
+348,Will_Hurd,Republican,Texas,HurdOnTheHill
+349,Evan_Jenkins_(politician),Republican,West Virginia,RepLynnJenkins
+350,John_Katko,Republican,New York,RepJohnKatko
+351,Steve_Knight_(politician),Republican,California,SteveKnight25
+352,Brenda_Lawrence,Democratic,Michigan,RepLawrence
+353,Ted_Lieu,Democratic,California,RepTedLieu
+354,Barry_Loudermilk,Republican,Georgia,N/A
+355,Mia_Love,Republican,Utah,RepMiaLove
+356,Tom_MacArthur,Republican,New Jersey,RepTomMacArthur
+357,Martha_McSally,Republican,Arizona,RepMcSally
+358,John_Moolenaar,Republican,Michigan,RepShimkus
+359,Alex_Mooney,Republican,West Virginia,RepAlexMooney
+360,Seth_Moulton,Democratic,Massachusetts,sethmoulton
+361,Dan_Newhouse,Republican,Washington,RepNewhouse
+362,Gary_Palmer_(politician),Republican,Alabama,USRepGaryPalmer
+363,Bruce_Poliquin,Republican,Maine,RepPoliquin
+364,John_Ratcliffe_(American_politician),Republican,Texas,RepRatcliffe
+365,Kathleen_Rice,Democratic,New York,RepKathleenRice
+366,David_Rouzer,Republican,North Carolina,RepDavidRouzer
+367,Steve_Russell_(politician),Republican,Oklahoma,RepRussell
+368,Elise_Stefanik,Republican,New York,RepStefanik
+369,Norma_Torres,Democratic,California,NormaJTorres
+370,Dave_Trott_(politician),Republican,Michigan,RepDaveTrott
+371,Mark_Walker_(North_Carolina_politician),Republican,North Carolina,RepMarkWalker
+372,Mimi_Walters,Republican,California,RepMimiWalters
+373,Bonnie_Watson_Coleman,Democratic,New Jersey,RepBonnie
+374,Bruce_Westerman,Republican,Arkansas,RepWesterman
+375,David_Young_(Iowa_politician),Republican,Iowa,RepDavidYoung
+376,Lee_Zeldin,Republican,New York,RepLeeZeldin
+377,Ryan_Zinke,Republican,Montana,N/A
+378,Dan_Donovan_(politician),Republican,New York,RepDanDonovan
+379,Trent_Kelly,Republican,Mississippi,RepTrentKelly
+380,Darin_LaHood,Republican,Illinois,RepLaHood
+381,Warren_Davidson,Republican,Ohio,WarrenDavidson
+382,James_Comer_(politician),Republican,Kentucky,KYComer
+383,Dwight_Evans_(politician),Democratic,Pennsylvania,RepDwightEvans
+384,Brad_Schneider,Democratic,Illinois,RepSchneider
+385,Jodey_Arrington,Republican,Texas,RepArrington
+386,Don_Bacon_(politician),Republican,Nebraska,RepDonBacon
+387,Jim_Banks,Republican,Indiana,RepJimBanks
+388,Nanette_Barragán,Democratic,California,RepBarragan
+389,Jack_Bergman,Republican,Michigan,RepJackBergman
+390,Andy_Biggs,Republican,Arizona,RepAndyBiggsAZ
+391,Lisa_Blunt_Rochester,Democratic,Delaware,N/A
+392,Anthony_G._Brown,Democratic,Maryland,RepAnthonyBrown
+393,Ted_Budd,Republican,North Carolina,RepTedBudd
+394,Salud_Carbajal,Democratic,California,RepCarbajal
+395,Liz_Cheney,Republican,Wyoming,RepLizCheney
+396,Lou_Correa,Democratic,California,RepLouCorrea
+397,Charlie_Crist,Democratic,Florida,RepCharlieCrist
+398,Val_Demings,Democratic,Florida,RepValDemings
+399,Neal_Dunn,Republican,Florida,DrNealDunnFL2
+400,Adriano_Espaillat,Democratic,New York,RepEspaillat
+401,John_Faso,Republican,New York,RepJohnFaso
+402,Drew_Ferguson_(politician),Republican,Georgia,RepDrewFerguson
+403,Brian_Fitzpatrick_(American_politician),Republican,Pennsylvania,RepBrianFitz
+404,Matt_Gaetz,Republican,Florida,RepMattGaetz
+405,Mike_Gallagher_(American_politician),Republican,Wisconsin,RepGallagher
+406,Tom_Garrett_(Virginia_politician),Republican,Virginia,RepTomGarrett
+407,Vicente_González_(politician),Democratic,Texas,RepJenniffer
+408,Josh_Gottheimer,Democratic,New Jersey,RepJoshG
+409,Clay_Higgins,Republican,Louisiana,RepClayHiggins
+410,Trey_Hollingsworth,Republican,Indiana,RepTrey
+411,Pramila_Jayapal,Democratic,Washington,RepJayapal
+412,Mike_Johnson_(Louisiana_politician),Republican,Louisiana,RepMikeJohnson
+413,Ro_Khanna,Democratic,California,RepLBR
+414,Ruben_Kihuen,Democratic,Nevada,RepKihuen
+415,Raja_Krishnamoorthi,Democratic,Illinois,CongressmanRaja
+416,David_Kustoff,Republican,Tennessee,RepDavidKustoff
+417,Al_Lawson,Democratic,Florida,RepAlLawsonJr
+418,Jason_Lewis_(Minnesota_politician),Republican,Minnesota,RepJasonLewis
+419,Roger_Marshall_(politician),Republican,Kansas,RepHalRogers
+420,Brian_Mast,Republican,Florida,RepBrianMast
+421,Donald_McEachin,Democratic,Virginia,RepMcEachin
+422,Paul_Mitchell_(politician),Republican,Michigan,RepPaulMitchell
+423,Stephanie_Murphy,Democratic,Florida,RepStephMurphy
+424,Tom_O'Halleran,Democratic,Arizona,N/A
+425,Jimmy_Panetta,Democratic,California,RepJimmyPanetta
+426,Jamie_Raskin,Democratic,Maryland,RepRaskin
+427,Francis_Rooney,Republican,Florida,RepRooney
+428,Jacky_Rosen,Democratic,Nevada,RepJackyRosen
+429,John_Rutherford_(Florida_politician),Republican,Florida,RepRutherfordFL
+430,Lloyd_Smucker,Republican,Pennsylvania,RepSmucker
+431,Darren_Soto,Democratic,Florida,RepDarrenSoto
+432,Thomas_Suozzi,Democratic,New York,N/A
+433,Scott_Taylor_(politician),Republican,Virginia,N/A
+434,Claudia_Tenney,Republican,New York,RepTenney
+435,Ron_Estes,Republican,Kansas,RepRonEstes
+436,Greg_Gianforte,Republican,Montana,N/A
+437,Jimmy_Gomez,Democratic,California,RepJimmyGomez
+438,Karen_Handel,Republican,Georgia,RepKHandel
+439,Ralph_Norman,Republican,South Carolina,RepRalphNorman
+440,John_Curtis_(American_politician),Republican,Utah,johnculberson
+441,Conor_Lamb,Democratic,Pennsylvania,RepConorLamb
+442,Debbie_Lesko,Republican,Arizona,DWStweets
+443,Michael_Cloud,Republican,Texas,N/A
+444,Troy_Balderson,Republican,Ohio,N/A
