@@ -41,7 +41,7 @@ The community detection algorithm appears to slightly sub-divide the parties but
 
 The next part of our analysis involves examining the contents of the tweets. Preprocessing of the contents involves removing twitter handles, punctuation, numbers, and the python NLTK package’s list of stop words. We did not, however, remove the text portion of hashtags. Although they often aren’t English words but rather a conglomerate of words, they are an important feature of Twitter that individuals use to identify the topics of their tweet. The wordclouds of the contents of the tweets are shown below, with the size of the word proportional to its TF-IDF score. A TF-IDF (term frequency-inverse document frequency) score for a given word and document is large if the word appears frequently in the document but infrequently across all documents. Thus, the higher the TF-IDF score, the more important and unique a word is to the specific document. In this case we have two documents, each one being the collection of tweets from one of the two parties.
 
-*Words used by Democratic representatives | Words used by Republican representatives*
+*Words used by Democratic representatives, Words used by Republican representatives*
 
 ![](./images/dem_tweets.svg 'Democratic tweet word cloud') ![](./images/dem_tweets.svg 'Republican tweet word cloud')
 
@@ -57,11 +57,11 @@ The distributions are very close in their center and spread, but the Republicans
 
 Next, using the normalized scores, we considered only tweets of extreme sentiment. Calculating the average normalized sentiment and standard deviation, tweets with a normalized sentiment less than two standard deviations below or more than two standard deviations above were respectively categorized as negative and positive tweets. Their TF-IDF weighted word clouds are shown below and reveal topics associated with extreme partisan emotion.
 
-*Democratic positive tweets | Republican positive tweets*
+*Democratic positive tweets, Republican positive tweets*
 
 ![](./images/dem_pos_tweets.svg 'Democratic positive tweets') ![](./images/rep_pos_tweets.svg 'Republican positive tweets')
 
-* Democratic negative tweets | Republican negative tweets*
+* Democratic negative tweets, Republican negative tweets*
 
 ![](./images/dem_neg_tweets.svg 'Democratic negative tweets') ![](./images/rep_neg_tweets.svg 'Republican negative tweets')
 
