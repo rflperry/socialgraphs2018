@@ -41,10 +41,10 @@ The community detection algorithm appears to slightly sub-divide the parties but
 
 The next part of our analysis involves examining the contents of the tweets. Preprocessing of the contents involves removing twitter handles, punctuation, numbers, and the python NLTK package’s list of stop words. We did not, however, remove the text portion of hashtags. Although they often aren’t English words but rather a conglomerate of words, they are an important feature of Twitter that individuals use to identify the topics of their tweet. The wordclouds of the contents of the tweets are shown below, with the size of the word proportional to its TF-IDF score. A TF-IDF (term frequency-inverse document frequency) score for a given word and document is large if the word appears frequently in the document but infrequently across all documents. Thus, the higher the TF-IDF score, the more important and unique a word is to the specific document. In this case we have two documents, each one being the collection of tweets from one of the two parties.
 
-*Words used by Democratic representatives, Words used by Republican representatives*
+_Words used by Democratic representatives (left), Words used by Republican representatives (right)_
 
-![](./images/dem_tweets.svg 'Democratic tweet word cloud') ![](./images/dem_tweets.svg 'Republican tweet word cloud')
-
+<img src="./images/dem_tweets.svg" width="49%"/>
+<img src="./images/rep_tweets.svg" width="49%"/>
 
 The hashtags appear to be the largest, and thus most used, terms in the tweets. We also clearly see topics of importance to each political party. An important thing to note is that based on the formulation of the TF-IDF score, any term used in tweets from both parties will have a score of zero and thus won’t appear in the word cloud. Thus, we only see words that are party specific. 
 We can gain further insights by utilizing sentiment analysis. Sentiment analysis aims to determine the attitude of a collection of words, where each word maps to a given sentiment score. The sentiment score came from the labMT 1.0 data from the Mechanical Turk study which contains 10,222 words and their evaluated average happiness score [2]. The sentiment score for each tweet was calculated as the sum of the sentiment of each of the words in the tweet. A word not in the labMT data added no sentiment. We then normalized the score to adjust for tweets of differing lengths.
@@ -57,18 +57,16 @@ The distributions are very close in their center and spread, but the Republicans
 
 Next, using the normalized scores, we considered only tweets of extreme sentiment. Calculating the average normalized sentiment and standard deviation, tweets with a normalized sentiment less than two standard deviations below or more than two standard deviations above were respectively categorized as negative and positive tweets. Their TF-IDF weighted word clouds are shown below and reveal topics associated with extreme partisan emotion.
 
-*Democratic positive tweets Republican positive tweets*
+_Democratic negative tweets (left), Republican negative tweets (right)_
 
-<img src="./images/dem_pos_tweets.svg" width="45%"/>
-<img src="./images/rep_pos_tweets.svg" width="45%"/>
+<img src="./images/dem_neg_tweets.svg" width="49%"/>
+<img src="./images/rep_neg_tweets.svg" width="49%"/>
 
-<img src="./images/dem_pos_tweets.svg" width="45%"/> <img src="./images/rep_pos_tweets.svg" width="45%"/>
+_Democratic positive tweets (left), Republican positive tweets (right)_
 
-![](./images/dem_pos_tweets.svg 'Democratic positive tweets') ![](./images/rep_pos_tweets.svg 'Republican positive tweets')
+<img src="./images/dem_pos_tweets.svg" width="49%"/>
+<img src="./images/rep_pos_tweets.svg" width="49%"/>
 
-* Democratic negative tweets, Republican negative tweets*
-
-![](./images/dem_neg_tweets.svg 'Democratic negative tweets') ![](./images/rep_neg_tweets.svg 'Republican negative tweets')
 
 Interestingly, the positive word clouds seem to be sparser, indicating fewer positive words specific to a party. A possible explanation for this is that it is very easy to criticize on Twitter. Negative news and headlines tend to attract attention and spur constituents more than positive events do. Thus, it is more worthwhile to discuss the negative than the positive. We can also see evidence of prominent news at the time that these tweets were mined and the perspectives of the parties. Most notably, we see the name ‘Kavanaugh’ in the Republican positive word cloud and the hashtag ‘believesurvivors’ in the Democratic negative wordcloud. Both the network analysis and the sentiment analysis indicate strong partisan divisions over twitter.
 
