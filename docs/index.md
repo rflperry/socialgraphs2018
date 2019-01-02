@@ -1,3 +1,8 @@
+---
+title: "Network Analysis and Text Sentiment of Tweets from members of the US House of Representatives"
+bg: white
+---
+
 # Network Analysis and Text Sentiment of Tweets from members of the US House of Representatives
 
 Twitter has become a popular platform for politicians to express their political views and to engage in debates and conversations with their constituents and other politicians. This is especially prevalent in the United States system and most members of the House of Representatives and Senate have official twitter handles. These members post tweets and retweet other politicians to express support or remark on the tweet’s content. The social network formed from politicians linked by retweets provides an interesting approach to quantify the roles of individuals and the level of disconnect across party lines. Additionally, the contents of the tweets offer information on the topics of most importance to the parties. For the following analysis, only the members of the 115th House of Representatives shall be considered as it has the most members.
