@@ -57,7 +57,12 @@ The distributions are very close in their center and spread, but the Republicans
 
 Next, using the normalized scores, we considered only tweets of extreme sentiment. Calculating the average normalized sentiment and standard deviation, tweets with a normalized sentiment less than two standard deviations below or more than two standard deviations above were respectively categorized as negative and positive tweets. Their TF-IDF weighted word clouds are shown below and reveal topics associated with extreme partisan emotion.
 
-*Democratic positive tweets, Republican positive tweets*
+*Democratic positive tweets Republican positive tweets*
+
+<img src="./images/dem_pos_tweets.svg" width="45%"/>
+<img src="./images/rep_pos_tweets.svg" width="45%"/>
+
+<img src="./images/dem_pos_tweets.svg" width="45%"/> <img src="./images/rep_pos_tweets.svg" width="45%"/>
 
 ![](./images/dem_pos_tweets.svg 'Democratic positive tweets') ![](./images/rep_pos_tweets.svg 'Republican positive tweets')
 
